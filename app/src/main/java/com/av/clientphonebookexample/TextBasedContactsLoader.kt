@@ -1,7 +1,5 @@
 package com.av.clientphonebookexample
 
-import com.av.clientphonebookexample.ui.theme.FileLoader
-
 class TextBasedContactsLoader : IContactsLoader {
     override fun getContacts(): List<Contact> {
         val list: MutableList<Contact> = mutableListOf()

@@ -41,7 +41,7 @@
             style="@style/contactOptionsButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@android:drawable/ic_menu_send" />
+            android:src="@android:drawable/sym_action_chat" />
 
         <ImageButton
             android:id="@+id/mail_button"
@@ -49,6 +49,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@android:drawable/sym_action_email" />
+
+        <ImageButton
+            android:id="@+id/whatsapp_button"
+            style="@style/contactOptionsButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/ic_menu_send" />
 
 
     </LinearLayout>

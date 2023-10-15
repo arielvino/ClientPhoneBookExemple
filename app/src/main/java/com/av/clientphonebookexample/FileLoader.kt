@@ -1,4 +1,4 @@
-package com.av.clientphonebookexample.ui.theme
+package com.av.clientphonebookexample
 
 import com.av.clientphonebookexample.MyApplication
 import java.io.InputStream
